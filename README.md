@@ -9,7 +9,7 @@
   
   - <b>Microsoft Azure</b>
     - [Configuring Active Directory within Azure VMs](https://github.com/Luis-G-Cordero/configure-ad)
-    - [Network Security Group (NSGs) and Inspecting Network Protocols](github.com/Luis-G-Cordero/azure-network-protocols)
+    - [Network Security Group (NSGs) and Inspecting Network Protocols](https://github.com/Luis-G-Cordero/azure-network-protocols)
   
   <h2> Connect with me:</h2>
   
