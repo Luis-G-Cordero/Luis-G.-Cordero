@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luis, an <a href="https://linkedin.com/in/Luis"> IT Professional
+<h1>Hi, I'm Luis, an <a href="https://www.linkedin.com/in/luis-g-cordero-ixl24736919"> IT Professional
   
 <h2> Information Technology Projects:<h2>
   
