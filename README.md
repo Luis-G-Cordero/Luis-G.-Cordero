@@ -14,4 +14,5 @@
   <h2> Connect with me:</h2>
   
   <img align="left" alt="Luis | LinkedIn" width="22px" src="https://www.linkedin.com/in/luis-g-cordero-ixl24736919"
+  -[LinkedIn](https://www.linkedin.com/in/luis-g-cordero-ixl24736919)
   />
